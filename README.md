@@ -33,7 +33,7 @@
 | 🏍️ [**Parking Lot Security System**](https://github.com/alihashim786/parking-lot-security-system) | Real-time CCTV theft detection on live footage — bike-owner matching, pose-based suspicion detection, auto evidence clips | `YOLOv8` `ByteTrack` `MediaPipe` |
 | 🌫️ [**FedHealth**](https://github.com/alihashim786/FedHealth-federated-MLOps-platform) | Federated MLOps platform forecasting PM2.5 air quality across 9 distributed clients with differential privacy | `PyTorch` `Kubernetes` `MLflow` |
 | 🏦 [**Cheque Verification**](https://github.com/alihashim786/cheque-verification-layoutllm) | Document AI for automated bank cheque fraud detection with LayoutLMv3 + LoRA fine-tuning | `LayoutLMv3` `LoRA` `Streamlit` |
-| 🎨 [**Generative AI Portfolio**](https://github.com/alihashim786/generative-ai-deep-learning-portfolio) | CycleGAN photo↔sketch translation, Transformer machine translation, and Vision Transformer — built from scratch | `PyTorch` `GANs` `Transformers` |
+| 🗞️ [**NLP Agentic Microservice Platform**](https://github.com/alihashim786/NLP-Agentic-Microservice-Platform) | AI-powered story generation microservice using Microsoft Phi-2 — fetches real-time trends and serves generated content over gRPC + FastAPI microservices | `HuggingFace` `Phi-2` `gRPC` `FastAPI` `Docker` |
 
 <div align="center">
 
