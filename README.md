@@ -2,7 +2,7 @@
 
 # Hi, I'm Muhammad Ali Hashim 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Agentic+AI+Engineer+%F0%9F%A4%96;Multi-Agent+LLM+Systems+%7C+LangGraph;RAG+Pipelines+%7C+Computer+Vision+%7C+MLOps;Messi+is+the+GOAT+%E2%9A%BD+(non-negotiable))](https://github.com/alihashim786)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Agentic+AI+Engineer+%F0%9F%A4%96;Multi-Agent+LLM+Systems+%7C+LangGraph;RAG+Pipelines+%7C+Computer+Vision+%7C+MLOps;%22Indeed%2C+with+hardship+comes+ease%22+%E2%80%94+94%3A6)](https://github.com/alihashim786)
 
 *I build AI agents that plan, retry, and self-heal — and occasionally I do the same after a Messi highlight reel.*
 
