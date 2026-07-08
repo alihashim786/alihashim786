@@ -92,12 +92,12 @@
 
 ---
 
-## ⚽ Beyond the Code
+## 🎯 Current Focus
 
-- ⚽ **Football is my first language; Python is my second.** Lifelong, certified-crazy **Messi** fan — I've rewatched his goals more times than I've re-run failed training jobs (and that's saying something).
-- 👶 Once dreamed of going pro myself. New roadmap: **earn enough to raise my future son into the next Messi.** That's what I call long-term transfer-market planning.
-- 📺 **Series résumé:** Breaking Bad · Better Call Saul · Game of Thrones · Peaky Blinders · Stranger Things · FROM · Lucifer. Fun fact: my RAG pipelines hallucinate less than the Game of Thrones Season 8 writers did.
-- 🌍 **Travel addict & full-time extrovert** — I network like a fully-connected layer. If you meet me, expect a conversation.
+- 🔧 **Shipping production TypeScript** at Tensor Labs × Huitzi Solutions (US) — data connectors, OAuth 2.0 flows, and incremental ETL on Google Cloud
+- 🎙️ **Building StreamVoice Agent** — a fully offline voice AI: wake-word detection, streaming STT, sub-200ms TTS synthesis, zero cloud dependencies
+- 📚 **Going deeper** on LLM evaluation frameworks and multi-agent reliability patterns
+- ⚽ Still watching Messi highlights between builds — some things don't change
 
 ---
 
